@@ -1,5 +1,5 @@
 {
-  "name": "winsnip-auto-trsf",
+  "name": "TesnetD-auto-trsf",
   "version": "1.0.0",
   "description": "Auto transfer system for EVM chains",
   "main": "index.js",
