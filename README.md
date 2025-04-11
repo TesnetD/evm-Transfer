@@ -36,6 +36,11 @@ Application for automated transfers between wallets across various EVM (Ethereum
 ```bash
 npm install
 ```
+
+```bash
+cd evm-Transfer
+```
+
 3. Copy `.env.example` to `.env` and fill in the configuration:
 ```env
 # Main wallet private key
